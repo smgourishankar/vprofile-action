@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: vprofile.gourish_projects.info
+  - host: vprofile.gourishprojects.info
     http:
       paths:
       - path: /
